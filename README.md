@@ -1,9 +1,11 @@
 ### Hi there, I'm Sena 👋
+
 < src= align="left" width="46%" "https://github-readme-stats.vercel.app/api/top-langs/?username=5ena&hide_progress=true" />
 
 < src= align="left" width="46%" "https://github-readme-stats.vercel.app/api?username=5ena&show_icons=true&theme=radical"/>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+< src= align="left" width="46%" "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
